@@ -8,8 +8,4 @@ public class HelloWorldSteps {
         System.out.println(arg1);
     }
 
-//    @Given("^print {string}$")
-//    public void print(String string) {
-//        System.out.println("Hello World!");
-//    }
 }
